@@ -1,50 +1,91 @@
-License for GeneMark family software ("Product")
+Artistic Licence (http://www.opensource.org/licenses/artistic-license.php)
 
-Copyright 2019, Georgia Institute of Technology, USA. All rights reserved
+Preamble
 
-READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THIS PRODUCT. BY USING THIS PRODUCT YOU 
-INDICATE YOUR ACCEPTANCE OF THE TERMS OF THE FOLLOWING AGREEMENT. THESE TERMS APPLY TO YOU 
-AND ANY SUBSEQUENT LICENSEE OF THIS PRODUCT.
+The intent of this document is to state the conditions under which a Package 
+may be copied, such that the Copyright Holder maintains some semblance of 
+artistic control over the development of the package, while giving the users 
+of the package the right to use and distribute the Package in a more-or-less 
+customary fashion, plus the right to make reasonable modifications.
 
-Georgia Institute of Technology (collectively the "Licensor") retain the ownership of this
-copy and any subsequent copies of the Product. Licensor grants to Licensee, a U.S. 
-Governmental agency or a non-profit educational institution ("Licensee"), a non-exclusive,
-royalty free, non-transferable license to use the copy of the Product in accordance with
-the terms and conditions of this License Agreement.
+Definitions:
+"Package" refers to the collection of files distributed by the Copyright Holder, 
+and derivatives of that collection of files created through textual modification.
+"Standard Version" refers to such a Package if it has not been modified, or has 
+been modified in accordance with the wishes of the Copyright Holder.
+"Copyright Holder" is whoever is named in the copyright or copyrights for the package.
+"You" is you, if you're thinking about copying or distributing this Package.
+"Reasonable copying fee" is whatever you can justify on the basis of media cost, 
+duplication charges, time of people involved, and so on. (You will not be required 
+to justify it to the Copyright Holder, but only to the computing community at large 
+as a market that must bear the fee.)
+"Freely Available" means that no fee is charged for the item itself, though there 
+may be fees involved in handling the item. It also means that recipients of the 
+item may redistribute it under the same conditions they received it.
 
-1. Permitted Uses.  Licensee may:
+1. You may make and give away verbatim copies of the source form of the Standard 
+Version of this Package without restriction, provided that you duplicate all of 
+the original copyright notices and associated disclaimers.
 
-a) use the Product solely for Licensee's own internal research purposes.
+2. You may apply bug fixes, portability fixes and other modifications derived 
+from the Public Domain or from the Copyright Holder. A Package modified in such 
+a way shall still be considered the Standard Version.
 
-2. Prohibited Uses.  Licensee may not:
+3. You may otherwise modify your copy of this Package in any way, provided that 
+you insert a prominent notice in each changed file stating how and when you changed 
+that file, and provided that you do at least ONE of the following:
 
-a) transfer, distribute, lease or sub-license the Product.
-b) use the Product for any commercial purpose.
-c) charge for access or viewing of the Product.
-d) alter, modify, or adapt the Product or documentation, or portions thereof.
+a) place your modifications in the Public Domain or otherwise make them Freely 
+Available, such as by posting said modifications to Usenet or an equivalent medium, 
+or placing the modifications on a major archive site such as ftp.uu.net, or by 
+allowing the Copyright Holder to include your modifications in the Standard Version 
+of the Package.
 
-3. Timeframe
+b) use the modified Package only within your corporation or organization.
 
-The License is valid for one year period from date of download. At the end of this period 
-you will be reminded to renew the license and to download a new version of the software.
+c) rename any non-standard executables so the names do not conflict with standard 
+executables, which must also be provided, and provide a separate manual page for 
+each non-standard executable that clearly documents how it differs from the Standard 
+Version.
 
-Limited Warranty and Liability
+d) make other distribution arrangements with the Copyright Holder.
 
-LICENSOR MAKES NO WARRANTY OR REPRESENTATION, EITHER EXPRESS OR IMPLIED, WITH RESPECT TO THE
-PRODUCT, INCLUDING ITS QUALITY, PERFORMANCE, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR
-PURPOSE OR THAT THE USE OF THE PRODUCT OR DOCUMENTATION WILL NOT INFRINGE ANY PATENTS,
-COPYRIGHTS, TRADEMARKS, OR OTHER RIGHTS. THE PRODUCT PROVIDED HEREUNDER IS ON AN "AS IS" 
-BASIS. IN NO EVENT WILL LICENSOR BE LIABLE FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR
-CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PRODUCT OR DOCUMENTATION,
-EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+4. You may distribute the programs of this Package in object code or executable 
+form, provided that you do at least ONE of the following:
 
-General
+a) distribute a Standard Version of the executables and library files, together 
+with instructions (in the manual page or equivalent) on where to get the Standard Version.
 
-Licensor retains all rights not expressly granted herein. Nothing in this License Agreement
-constitutes a waiver of Licensor's rights under United States copyright law. This License and
-Licensee's right to use the Product automatically terminate without notice from Licensor if
-Licensee fails to comply with any provision of this License Agreement, or any terms and
-conditions associated with the transfer of this Product. Upon termination, you will remove and
-destroy all copies of the Product. This License Agreement is governed by the laws of the 
-State of Georgia.
+b) accompany the distribution with the machine-readable source of the Package with 
+your modifications.
 
+c) accompany any non-standard executables with their corresponding Standard Version 
+executables, giving the non-standard executables non-standard names, and clearly 
+documenting the differences in manual pages (or equivalent), together with instructions 
+on where to get the Standard Version.
+
+d) make other distribution arrangements with the Copyright Holder.
+
+5. You may charge a reasonable copying fee for any distribution of this Package. 
+You may charge any fee you choose for support of this Package. You may not charge 
+a fee for this Package itself. However, you may distribute this Package in aggregate 
+with other (possibly commercial) programs as part of a larger (possibly commercial) 
+software distribution provided that you do not advertise this Package as a product 
+of your own.
+
+6. The scripts and library files supplied as input to or produced as output from the 
+programs of this Package do not automatically fall under the copyright of this Package, 
+but belong to whomever generated them, and may be sold commercially, and may be 
+aggregated with this Package.
+
+7. C or perl subroutines supplied by you and linked into this Package shall not be 
+considered part of this Package.
+
+8. The name of the Copyright Holder may not be used to endorse or promote products 
+derived from this software without specific prior written permission.
+
+9. THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, 
+INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS 
+FOR A PARTICULAR PURPOSE.
+
+The End
